@@ -1,0 +1,2 @@
+extracted/sns/app/integrity.properties
+extracted/sns/app/play-services-fido.properties

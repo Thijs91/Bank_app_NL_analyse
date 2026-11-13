@@ -1,0 +1,55 @@
+# Bank Apps Security Analysis - .gitignore
+
+# APK and XAPK files (large binary files)
+*.apk
+*.xapk
+
+# Directories containing large files
+apks/
+logs/
+extracted/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Shell
+*.sh.log
+
+# Temporary files
+*.tmp
+*.temp

@@ -1,0 +1,2 @@
+extracted/revolut/app_full/integrity.properties
+extracted/revolut/app_full/play-services-fido.properties
